@@ -1,11 +1,4 @@
-.red {
-    color: red;
-    
-}
 
-.body {
-    background-color: red !important;
-}
 /* 
 n'oublie pas que la flèche de ton carrousel est tout à droite de la page et pas à la fin de l'image.
 */
@@ -20,18 +13,38 @@ n'oublie pas que la flèche de ton carrousel est tout à droite de la page et pa
     align-items: center;
     justify-content: center;
 }
-.presentationpjs {
-    display: flex;
-}
-.pp{
-    height: 45vh;
-    width: 30vw;
-    border-radius: 5%;
-    flex: 1;
-}
-.mypp{
-    display: flex ;
-    flex :2;
-align-items: center;
 
+.pp {
+
+        border-radius: 15%  ;  
+        width: 20% ;
+        height: 40%;
+}
+
+
+.cBG{
+    background-color: beige;
+} 
+ 
+.navbar {
+  align-items: center;
+  justify-content: center   ;
+}
+.logo{
+  height:3%;
+  width: 6%;
+}
+.titre1 {
+  font-family: 'Playfair Display', serif;
+
+}
+.titre2 {
+  font-family: 'Playfair Display', serif;
+}
+.contenu{
+  font-family: 'Playfair Display', serif;
+}
+.exphotos {
+  width: 45%;
+  height: 75%;
 }
