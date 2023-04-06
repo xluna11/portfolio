@@ -1,19 +1,7 @@
 
-/* 
-n'oublie pas que la flèche de ton carrousel est tout à droite de la page et pas à la fin de l'image.
-*/
-
-.carousel-item {
-    width: 100vw;
-    height: 75vh;
-  
+.title {
+  display: flex ;
 }
-.carouselExampleIndicators {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .pp {
 
         border-radius: 15%  ;  
@@ -22,29 +10,39 @@ n'oublie pas que la flèche de ton carrousel est tout à droite de la page et pa
 }
 
 
-.cBG{
-    background-color: beige;
-} 
- 
-.navbar {
-  align-items: center;
-  justify-content: center   ;
-}
 .logo{
-  height:3%;
-  width: 6%;
+  height:7%;
+  width: 15%;
 }
 .titre1 {
   font-family: 'Playfair Display', serif;
 
 }
-.titre2 {
-  font-family: 'Playfair Display', serif;
-}
+
 .contenu{
-  font-family: 'Playfair Display', serif;
+  font-family: 'Montserrat', serif;
 }
 .exphotos {
-  width: 45%;
+  width: 50%;
   height: 75%;
+}
+ .aPhoto {
+  width: 75%;
+  height: 50%;
+ }
+
+ .mycard {
+ 
+    background-color: rgb(235, 125, 103);
+
+ }
+
+.cBG{
+  
+    background-color: rgb(237, 215, 186);
+
+  
+}
+.globalBackground {
+background-color: rgb(237, 215, 186);
 }

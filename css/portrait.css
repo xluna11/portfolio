@@ -1,0 +1,28 @@
+
+.exphotos {
+  width: 30%;
+  height: 75%;
+}
+.allimg {
+  width: 100%;
+}
+
+.carousel-item {
+  
+    background-color: rgb(167, 167, 224);
+  
+}
+.tColor {
+    color: black;
+}
+.titre1{
+  padding-left: 25%;
+  font-family: 'Playfair Display', serif;
+align-items: center;
+justify-content: center   ;   
+
+}
+.logo{
+  height:7%;
+  width: 15%;
+}

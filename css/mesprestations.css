@@ -1,20 +1,15 @@
 
-  .carousel-item {
-    
-      background-color: rgb(167, 167, 224);
-    
-  }
 .tColor {
     color: black;
 }
-.titre1{
+.logo{
+    height:7%;
+    width: 15%;
+  }
+  .titre1{
     padding-left: 25%;
     font-family: 'Playfair Display', serif;
   align-items: center;
   justify-content: center   ;   
 
-}
-.logo{
-  height:7%;
-  width: 15%;
 }
